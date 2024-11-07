@@ -32,7 +32,8 @@ This commands includes
 # IPCONFIG
 ![Screenshot 2024-11-07 111332](https://github.com/user-attachments/assets/2131f74f-5938-47c7-928b-d84bff3a100c)
 # PING
-![Screenshot 2024-11-07 111332](https://github.com/user-attachments/assets/0593c4ec-0aea-4ed9-b89f-b3d3f7f1abb0)
+![Screenshot 2024-11-07 111345](https://github.com/user-attachments/assets/52e41eb1-58e9-4b1c-8404-eb98490b56ab)
+
 # TRACERT
 ![Screenshot 2024-11-07 111400](https://github.com/user-attachments/assets/eea7227c-3f77-458b-ae48-2356765de55a)
 # NSLOOKUP
